@@ -48,7 +48,8 @@ Reverse engineering should be conducted for **security research, auditing, and d
 
 To provide a clear visual overview of the reverse engineering process, refer to the flowchart below:
 
-![Reverse Engineering Process Flowchart](images/Reverse_Engineering_Process_Flowchart.png)
+<img src="https://github.com/jason-victor1/reverse-engineering-smart-contracts/blob/master/newflowchart.png?raw=true" alt="Reverse Engineering Process Flowchart" width="50%">
+
 
 This flowchart outlines the sequential steps involved in reverse engineering a smart contract, which we will discuss in detail:
 
